@@ -1,0 +1,42 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "scottybrackett@gmail.com",
+    "longName": "TIME_WEATHER",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Reckoner - Copy.ttf",
+                "name": "Reckoner_30",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Reckoner.ttf",
+                "name": "Reckoner_24",
+                "type": "font"
+            },
+            {
+                "file": "images/Venom2_converted (2).png",
+                "name": "Venom",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "TIME_WEATHER",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "66a1e271-1c08-463c-ae5a-df468c62af9b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
